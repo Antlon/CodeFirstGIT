@@ -1,6 +1,3 @@
-from random import randint
-
-
 #Recording player name:
 print("ARE YOU A SEAGULL? The official quiz")
 print("----------------")
